@@ -180,15 +180,20 @@ These insights can support decisions around menu optimization, product positioni
 ⚠️ Limitations
 The analysis is based on the available restaurant order dataset.
 No external customer demographic or operational data is included.
+
 🔮 Future Improvements
 
 Potential extensions include:
 
 Revenue and profit analysis over time.
+
 Monthly and weekly sales trends.
+
 Customer segmentation.
+
 Repeat-customer analysis.
+
 Dashboard development using Power BI or Tableau.
+
 Automated data loading and reporting.
 
-⭐ If you found this project useful, feel free to explore the SQL scripts and analysis.
