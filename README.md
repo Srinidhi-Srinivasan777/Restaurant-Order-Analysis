@@ -86,21 +86,30 @@ Popular food categories
 Top 5 highest-spending orders
 Item/category composition of high-value orders
 📁 Project Structure
+
 Restaurant-Order-Analysis/
+
 │
+
 ├── menu_items.csv
+
 ├── order_details.csv
+
 ├── restaurant_db_data_dictionary.csv
+
 │
 ├── create_restaurant_db.sql
+
 ├── Exploring table 1.sql
+
 ├── Exploring table 2.sql
+
 └── The analysis.sql
+
 
 🚀 How to Use
 1. Clone the repository
-git clone https://github.com/Srinidhi-Srinivasan777/Restaurant-Order-Analysis.git
-cd Restaurant-Order-Analysis
+Clone this using the git clone command.
 
 2. Open MySQL
 
