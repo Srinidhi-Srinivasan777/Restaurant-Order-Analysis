@@ -86,6 +86,8 @@ Most and least ordered menu items
 Popular food categories
 Top 5 highest-spending orders
 Item/category composition of high-value orders
+
+
 📁 Project Structure
 
 Restaurant-Order-Analysis/
