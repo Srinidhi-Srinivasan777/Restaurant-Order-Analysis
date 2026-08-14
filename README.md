@@ -1,5 +1,6 @@
 
 🍽️ Restaurant Order Analysis
+
 📌 Project Overview
 
 An descriptive data analysis project using MySQL to analyze restaurant orders, menu items, customer purchasing patterns, and high-value orders.
